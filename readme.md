@@ -1,7 +1,6 @@
 Prerequiesite
 
-Python
-
+<a href="https://www.python.org/downloads/">Python</a>
 
 Start App:
 
